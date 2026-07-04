@@ -28,7 +28,7 @@ This project analyzes over 120 years of Olympic Games history using Power BI. Th
 
 ## 📊 Dashboard Preview
 
-![Olympic Dashboard](Images/dashboard.png)
+![Olympic Dashboard](Images/Dashboard.png)
 
 ---
 
